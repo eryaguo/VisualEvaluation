@@ -1,1 +1,2 @@
 # VisualEvaluation
+This repository provides instructions on how to apply VLMEvalKit to evaluate the visual performance of a model. The instructions are based on the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
